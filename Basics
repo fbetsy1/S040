@@ -1,0 +1,7 @@
+rm(list = ls())
+library(foreign)
+library(readstata13)
+library(dplyr)
+library(texreg)
+library(ggplot2)
+library(viridis)
